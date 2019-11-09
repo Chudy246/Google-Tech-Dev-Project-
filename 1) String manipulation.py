@@ -1,3 +1,5 @@
+# Owner : Kamil Iwanowski
+# Distributed under the Apache License
 
 S = "abppplee"
 D = {"able", "ale", "apple", "bale", "kangaroo"}
