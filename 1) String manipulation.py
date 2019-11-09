@@ -10,7 +10,7 @@ def IsIt(Sentence,Word):
         t = Sentence[Index:].find(i)
         if t > -1:
             n += 1
-            Index += t
+            Index += t + 1
     if n == len(Word):
         return n
     return 0
